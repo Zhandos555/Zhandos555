@@ -1,6 +1,6 @@
 - 👋 Hey, I’m Zhandos
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html, css and JavaScript
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Bootstrap, React
 - 💞️ I’m looking to collaborate on any projects where I can apply above mentioned things
 - 📫 How to reach me what's up number is +7 771 694 74 48, same number I use for Telegram
 
