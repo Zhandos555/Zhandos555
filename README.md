@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zhandos555
+- 👋 Hi, I’m Zhandos
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning html, css and JavaScript
 - 💞️ I’m looking to collaborate on any projects where I can apply above mentioned things
