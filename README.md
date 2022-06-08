@@ -152,7 +152,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Hi <span>👋</span>, I'm Kasra Tabrizi</h1>
+				<h1>Hi <span>👋</span>, I'm Zhandos Sembayev</h1>
 				<h2>I'm a Frontend developer / web designer based in Kazakhstan, Almaty</h2>
 				<div class="main_info__container">
 				  <div class="block working_on">
@@ -165,14 +165,10 @@
 				  </div>
 				  <div class="block contact_me">
 				    <p>📫 How to reach me</p>
-				    <h3>kasra_tabrizi@hotmail.com</h3>
+				    <h3>sembayev.zhandos@gmail.com</h3>
 				  </div>
 				  <div class="block feedback">
 				    <h3>🤔 Feel free to give me feedback on my projects!</h3>
-				  </div>
-				  <div class="block terminal">
-				    <p>👇 Hit this in your terminal</p>
-				    <h3>npx kasratabrizi</h3>
 				  </div>
 				</div>
 				<h2>🧰 My Setup</h2>
